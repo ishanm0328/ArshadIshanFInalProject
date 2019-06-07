@@ -21,6 +21,6 @@ public class MasterFile {
 		{
 			float c=a/b;
 			System.out.printf("%5.3f%n",c);
-	}
+	}// Arshad - I learned how to push and pull files through gitkraken. I also learned that ints only store whole values while floats store values that have potential decimal places. I also learned how to format floats using printf (%5.3f%n).
 
 }
