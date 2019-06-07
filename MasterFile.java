@@ -6,6 +6,7 @@ public interface Print_Quotient
 
 public interface Perfect_Square {
 	public boolean square (int a);
+	//Ishan - I learned about how GitKraken works and how pushed, pulls, and commits help make woking with a partner easier. I also learned about lambdas and how they make coding easier by making functional interfaces more accessable.
 }
 
 public class MasterFile {
